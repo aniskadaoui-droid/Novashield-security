@@ -1,1 +1,1 @@
-alert("NovaShield Security Active");
+document.body.style.background = "red";
