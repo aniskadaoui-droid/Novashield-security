@@ -1,1 +1,1 @@
-document.body.innerHTML += "<h1 style='color:red;'>JavaScript Works</h1>";
+console.log("NovaShield Security Script Loaded");
